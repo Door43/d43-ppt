@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ppt:home|Door43 (ppt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ppt|d43-ppt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ppt/archive/master.zip|d43-ppt.zip]]
+
+**Recent Changes**
+{{changes>ns = ppt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ppt|Ethnologue data]]
+
